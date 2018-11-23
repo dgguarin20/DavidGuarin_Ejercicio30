@@ -1,0 +1,2 @@
+# DavidGuarin_Ejercicio30
+Metodos computacionales avanzados
